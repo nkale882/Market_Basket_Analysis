@@ -12,6 +12,11 @@ This project applies Market Basket Analysis on a large-scale retail dataset usin
   - `Invoice`, `StockCode`, `Description`, `Quantity`
   - `InvoiceDate`, `Price`, `Customer ID`, `Country`
 
+📥 [Download Dataset](https://docs.google.com/spreadsheets/d/1SKIl0OpmkmMtAfZwc7K20CWvvMJGGaGW/edit?usp=sharing&ouid=112213017495102254362&rtpof=true&sd=true)
+
+> Note: The dataset is hosted on Google Drive due to its size. Download and upload it to Colab before running the notebook.
+
+
 ---
 
 ## 🎯 Project Goals
